@@ -10,7 +10,7 @@ In this project, the company Pewlett Hackard (a fictional company) wants to exam
 3. Data Analysis
 
 ## Data Modeling
-![alt text](sql-challenge_ERD.PNG)
+![alt text](https://github.com/knavarre/sql-challenge/blob/main/EmployeeSQL/sql-challenge_ERD.png?raw=true)
 The above Enitity Relationship Diagram depicts the relationship between the csv files used for this project.  Each csv file is represented as a seperate table in the ERD.  
 
 ## Data Engineering
